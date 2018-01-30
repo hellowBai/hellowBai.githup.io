@@ -1,0 +1,12 @@
+# hellowBai.githup.io
+<!DOCTYPE html>
+
+<html>
+
+<body>
+
+<h1>这是我使用github pages搭建的个人站点</h1>
+
+</body>
+
+</html>
